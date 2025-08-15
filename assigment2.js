@@ -2,41 +2,41 @@
 // let a=90;
 // if(a>=60)
 // {
-//     console.log("grade A")
+//     console.log("grade A");
 // }
 // else if(a>=50)
 // {
-//     console.log("grade B")
+//     console.log("grade B");
 // }
 // else if(a>=40)
 // {
-//     console.log("grade C")
+//     console.log("grade C");
 // }
 // else if(a>=30)
 // {
-//     console.log("garde D")
+//     console.log("garde D");
 // }
 // else{
-//     console.log("fail grade E")
+//     console.log("fail grade E");
 // }
 
 //question 2
 // let a="D";
 // if(a==="P"||a==="p")
 // {
-//     console.log("PrepBytes")
+//     console.log("PrepBytes");
 // }
 // else if(a==="Z"||a==="z")
 // {
-//     console.log("Zenith")
+//     console.log("Zenith");
 // }
 // else if(a==="E"||a==="e")
 // {
-//     console.log("ExpertCoder")
+//     console.log("ExpertCoder");
 // }
 // else if(a==="D"||a==="d")
 // {
-//     console.log("Data structure")
+//     console.log("Data structure");
 // }
 
 //question 3
@@ -45,19 +45,19 @@
 // let c=50;
 // if(a===b && b===c)
 // {
-//     console.log("-1")
+//     console.log("-1");
 // }
 // else if(a>=b && a>=c)
 // {
-//     console.log(a)
+//     console.log(a);
 // }
 // else if(b>=a && b>=c)
 // {
-//     console.log(b)
+//     console.log(b);
 // }
 // else
 // {
-//     console.log(c)
+//     console.log(c);
 // }
 
 //question 4
@@ -74,8 +74,9 @@
 // }
 // else
 // {
-//     console.log(z)
+//     console.log(z);
 // }
+
 
 
 
